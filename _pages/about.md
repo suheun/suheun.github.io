@@ -1,8 +1,15 @@
 ---
 layout: single
-title: About
 permalink: /about/
+title: About
+date: Thu Jan 16 02:23:01 PST 2025
+last_modified_at: Thu Jan 16 02:23:01 PST 2025
 ---
+
+posted: {{ page.date| date: "%d-%b-%Y" }}
+&amp;
+updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
+{: .notice--primary}
 
 At [Nexus Strategy Group (NSG)](/), we believe that extraordinary success stems from the convergence of exceptional people, transformative ideas, and perfectly timed opportunities. Our founder brings together an unprecedented combination of analytical precision, emotional intelligence, and strategic insight that has shaped NSG's unique approach to value creation.
 

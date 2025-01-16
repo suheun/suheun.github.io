@@ -16,7 +16,7 @@
 
 repository: suheun/suheun.github.io
 
-title: Nexus Strategy Group
+title: NSG - Nexus Strategy Group
 email: shyun.opt@gmail.com
 description: ""
 #twitter_username: username
@@ -61,7 +61,7 @@ plugins:
 
 # Site Author
 author:
-  name             : NSG
+  name             : Nexus Strategy Group
   avatar           : "/assets/images/nsg-logo-01.png"
   bio              : "Advisor, Facilitator, and Connector"
 #  location         : "Silicon Valley"
