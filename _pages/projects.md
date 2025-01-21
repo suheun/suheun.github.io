@@ -15,6 +15,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
+# Action Items
+
+- call Jordan Hyongbae Lee
+	- due: 21-Jan-2025
+
 # WeStory.ai
 
 - PR&FAQ - drafted PR on 14-Jan-2025
@@ -26,6 +31,7 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 
 - purpose: connect to Google product team
 - progress: Dongeun Lee is vetting the business opportunities
+- [project page](/projects/cryptolab/google)
 
 
 ## LGE
@@ -38,10 +44,14 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 ## Solidigm
 
 - purpose: see business opportunities with Solidigm and arrange dinner with Kevin Noh &amp; Jung Hee Cheon
+- will call Jordan @ 21-Jan-2025 (written on 20-Jan-2025)
 
 ## SK hynix
 
-- will proceed once Solidigm case starts to be made (written on 16-Jan-2025)
+<!-- - will proceed once Solidigm case starts to be made (written on 16-Jan-2025)-->
+- talked to SVP Hoshik on 17-Jan-2025; confirmed that sk hynix will sponsor HERC project
+	by paying 300 MM won (45 MM won in cash)
+- will try to strike a similar deal with Solidigm (written on 17-Jan-2025)
 
 ## Samsung
 
@@ -49,5 +59,6 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 
 ## Amazon
 
-- sent out many many emails to ex-Amazonians, but it feels like there is a slim chance for anyone to get back to me with good news (written on 16-Jan-2025)
+- sent out many many emails to ex-Amazonians,
+but it feels like there is a slim chance for anyone to get back to me with good news (written on 16-Jan-2025)
 
