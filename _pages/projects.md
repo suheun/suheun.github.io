@@ -3,7 +3,7 @@ layout: single
 permalink: /projects/
 title: Projects
 date: Fri Jan 17 02:23:28 PST 2025
-last_modified_at: Fri Jan 17 02:23:28 PST 2025
+last_modified_at: Wed Mar  5 23:25:04 KST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -15,17 +15,19 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
-# Action Items
-
-- call Jordan Hyongbae Lee
-	- due: 21-Jan-2025
-
 # WeStory.ai
 
 - PR&FAQ - drafted PR on 14-Jan-2025
 - first meeting with WeStory.ai members scheduled for 7pm on 17-Jan-2025
 
 # CryptoLab
+
+## Solidigm
+
+### 17-Jan
+
+- purpose: see business opportunities with Solidigm and arrange dinner with Kevin Noh &amp; Jung Hee Cheon
+- will call Jordan @ 21-Jan-2025 (written on 20-Jan-2025)
 
 ## Google
 
@@ -40,11 +42,6 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 - coffee appointment w/ Woosung
 	- appointment delayed twice (15-Jan-2025 &amp; 16-Jan-2025)
 	- will keep trying (written on 16-Jan-2025)
-
-## Solidigm
-
-- purpose: see business opportunities with Solidigm and arrange dinner with Kevin Noh &amp; Jung Hee Cheon
-- will call Jordan @ 21-Jan-2025 (written on 20-Jan-2025)
 
 ## SK hynix
 
